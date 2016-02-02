@@ -162,4 +162,4 @@ References:
 [Specification of the MILENAGE algorithm set: An example algorithm set for the 3GPP authentication and key generation functions f1, f1\*, f2, f3, f4, f5 and f5\*; Document 4: Design conformance test data (3GPP TS 35.208)](http://www.3gpp.org/ftp/Specs/html-info/35208.htm)
 
 [![](3Gdb.50.png)](http://www.3gdb.org)
-[![](http://www.erlang.org/images/logo.gif)](http://www.erlang.org)
+[![](http://www.erlang.org/img/erlang.png)](http://www.erlang.org)
